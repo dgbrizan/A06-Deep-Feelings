@@ -1,3 +1,3 @@
 # A06 - Deep Feelings
 
-See assignment details on Canvas.
+This is an optional assignment for AI (Spring 2026). See assignment details on Canvas.

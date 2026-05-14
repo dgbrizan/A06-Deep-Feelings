@@ -1,1 +1,3 @@
-# A06-Deep-Feelings
+# A06 - Deep Feelings
+
+See assignment details on Canvas.
